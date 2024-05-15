@@ -1,7 +1,7 @@
 Social Media Tracker
 Welcome to the Social Media Tracker repository! This project is a web application designed to help users monitor and analyze their social media presence across various platforms. The application provides insights and analytics to help users understand their engagement, reach, and overall performance.
 
-Table of Contents
+.Table of Contents
 Features
 Technologies Used
 Installation
